@@ -1,0 +1,26 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Secrets (never upload these)
+.env
+*.env
+config.ini
+
+# Power BI temporary files
+*.pbix.tmp
+.pbi/
+
+# Windows system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
